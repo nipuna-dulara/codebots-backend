@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+google-generativeai==0.1.0  # Replace with the actual version if available
+pydantic==2.5.2
+torch==2.1.0  # Replace with the actual version if you're using PyTorch
+transformers==4.35.0  # Replace with the actual version if you're using transformers

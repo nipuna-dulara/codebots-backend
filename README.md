@@ -15,8 +15,8 @@ This FastAPI application provides a chatbot service to assist tourists visiting 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/nipuna-dulara/codebots-backend.git
+   cd codebots-backend
 2. **Create a Virtual Environment**:
    ```bash
    python -m venv venv
